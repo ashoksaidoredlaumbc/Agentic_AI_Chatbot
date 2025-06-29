@@ -58,7 +58,7 @@ Chatbot_with_Web/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ashoksaidoredlaumbc/Agentic_AI_Chatbot.git
    cd Chatbot_with_Web
    ```
 
@@ -75,7 +75,7 @@ Chatbot_with_Web/
 
 4. **Run the application**
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ## 🎯 Usage
